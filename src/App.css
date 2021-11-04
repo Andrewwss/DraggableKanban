@@ -1,0 +1,9 @@
+body, html {
+  background: #0066bd;
+  width: 100%;
+}
+
+.App {
+  font-family: Roboto;
+  text-align: center;
+}
